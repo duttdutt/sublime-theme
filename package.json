@@ -1,7 +1,8 @@
 {
+	"publisher": "grigoryvp",
   "name": "sublime-theme",
   "displayName": "Sublime Theme",
-  "description": "...",
+  "description": "Sublime Theme for Visual Studio Code",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.88.0"
@@ -9,6 +10,8 @@
   "categories": [
     "Themes"
   ],
+  "icon": "icon.png",
+	"repository": "https://github.com/saepe43217/sublime-theme.git",
   "contributes": {
     "themes": [
       {
