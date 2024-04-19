@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-![Semantic](https://github.com/duttdutt/sublime-theme/assets/130778922/e4c65d27-c916-42bf-be97-56cd61d5835b)
+<img alt="" src="https://github.com/duttdutt/sublime-theme/assets/130778922/e4c65d27-c916-42bf-be97-56cd61d5835b">
 <img alt="" src="">
 <sub><samp>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Font | <a href="https://en.wikipedia.org/wiki/Menlo_(typeface)">Input Mono</a><br>
 
