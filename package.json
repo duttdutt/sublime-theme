@@ -1,24 +1,36 @@
 {
-	"publisher": "grigoryvp",
-  "name": "sublime-theme",
-  "displayName": "Sublime Theme",
-  "description": "Sublime Theme for Visual Studio Code",
-  "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.88.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "icon": "icon.png",
+	"publisher": "duttdutt",
+	"name": "sublime-theme",
+	"displayName": "Sublime Theme",
+	"description": "Sublime Theme for Visual Studio Code",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.88.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"icon": "icon.png",
 	"repository": "https://github.com/saepe43217/sublime-theme.git",
-  "contributes": {
-    "themes": [
-      {
-        "label": "Sublime Theme",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Sublime Theme-color-theme.json"
-      }
-    ]
-  }
+	"contributes": {
+		"themes": [
+			{
+				"label": "Sublime Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Sublime Theme-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "8cb4d76c-bdf8-4cbd-8227-e623ccaacee2",
+		"publisherId": "71484e8e-535d-4a38-b8c8-d458571d7f44",
+		"publisherDisplayName": "duttdutt",
+		"targetPlatform": "undefined",
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"hasPreReleaseVersion": false,
+		"installedTimestamp": 1713559380917,
+		"pinned": false,
+		"source": "gallery"
+	}
 }
