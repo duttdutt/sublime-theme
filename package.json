@@ -3,7 +3,7 @@
 	"name": "sublime-theme",
 	"displayName": "Sublime Theme",
 	"description": "Sublime Theme for Visual Studio Code",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"engines": {
 		"vscode": "^1.88.0"
 	},
@@ -12,6 +12,10 @@
 	],
 	"icon": "icon.png",
 	"repository": "https://github.com/duttdutt/sublime-theme.git",
+	"scripts": {
+    "build": "vsce package --out ./extension.vsix",
+		"publish": "open-cli https://marketplace.visualstudio.com/manage"
+  },
 	"contributes": {
 		"themes": [
 			{
