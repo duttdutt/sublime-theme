@@ -17,6 +17,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Fix some properties, constants and other JavaScript, TypeScript stuff customization.
 
+## [1.0.0] - 21 Apr, 2025
+
+- Changed tokens for comments, variables, properties.
+- Change some colors for theme.
+- Added `README.md`.
+
 ## Releases
 [0.0.2]: https://github.com/duttdutt/sublime-theme/compare/v0.0.1...v0.0.2
 [0.0.1]: https://github.com/duttdutt/sublime-theme/releases/tag/v0.0.1
