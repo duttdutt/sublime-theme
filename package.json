@@ -3,7 +3,7 @@
 	"name": "sublime-theme",
 	"displayName": "Sublime Mariana Theme",
 	"description": "Sublime Mariana Themes for VSCode",
-	"version": "1.0.1",
+	"version": "1.0.3",
 	"engines": {
 		"vscode": "^1.88.0"
 	},
