@@ -1,16 +1,16 @@
 {
 	"publisher": "duttdutt",
 	"name": "sublime-theme",
-	"displayName": "Sublime Theme",
-	"description": "Sublime Theme for Visual Studio Code",
-	"version": "0.0.4",
+	"displayName": "Sublime Mariana Theme",
+	"description": "Sublime Mariana Themes for VSCode",
+	"version": "1.0.0",
 	"engines": {
 		"vscode": "^1.88.0"
 	},
 	"categories": [
 		"Themes"
 	],
-	"icon": "icon.png",
+	"icon": "./icon/icon.png",
 	"repository": "https://github.com/duttdutt/sublime-theme.git",
 	"scripts": {
     "build": "vsce package --out ./extension.vsix",
@@ -19,9 +19,9 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Sublime Theme",
+				"label": "Sublime Mariana ⎯ Semantic",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Sublime Theme-color-theme.json"
+				"path": "./themes/sublime-semantic.json"
 			}
 		]
 	},
