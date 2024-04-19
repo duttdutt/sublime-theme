@@ -13,6 +13,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Added semantic token color customization.
 
+## [0.0.3] - 20 Apr, 2024
+
+- Fix some properties, constants and other JavaScript, TypeScript stuff customization.
+
 ## Releases
 [0.0.2]: https://github.com/duttdutt/sublime-theme/compare/v0.0.1...v0.0.2
 [0.0.1]: https://github.com/duttdutt/sublime-theme/releases/tag/v0.0.1
