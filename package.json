@@ -16,6 +16,16 @@
     "build": "vsce package --out ./extension.vsix",
 		"publish": "open-cli https://marketplace.visualstudio.com/manage"
   },
+	"bugs": {
+    "url": "https://github.com/duttdutt/sublime-theme/issues"
+  },
+	"exports": {
+    "./*": "./*"
+  },
+	"files": [
+    "images",
+    "themes"
+  ],
 	"contributes": {
 		"themes": [
 			{
@@ -25,6 +35,7 @@
 			}
 		]
 	},
+	"preview": true,
 	"__metadata": {
 		"id": "8cb4d76c-bdf8-4cbd-8227-e623ccaacee2",
 		"publisherId": "71484e8e-535d-4a38-b8c8-d458571d7f44",
