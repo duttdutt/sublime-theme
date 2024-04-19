@@ -202,7 +202,8 @@
 				"meta.object-literal.key.js",
 				"new.expr entity.name.function",
 				"punctuation.definition.template-expression",
-				"variable.other.object.property"
+				"variable.other.object.property",
+				"variable.other.object.property.js"
 			],
 			"settings": {
 				"foreground": "#D8DEE9",
@@ -355,6 +356,9 @@
 				"entity.name.type.instance.jsdoc",
 				"punctuation.definition.bracket.curly",
 				"punctuation.definition.section.case-statement",
+				"punctuation.terminator.statement",
+				"punctuation.separator.comma",
+				"meta.type.tuple punctuation.separator.comma"
 			],
 			"settings": {
 				"foreground": "#9BA2B0"
