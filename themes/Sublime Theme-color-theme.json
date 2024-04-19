@@ -201,7 +201,8 @@
 				"constant.other.class.php",
 				"meta.object-literal.key.js",
 				"new.expr entity.name.function",
-				"punctuation.definition.template-expression"
+				"punctuation.definition.template-expression",
+				"variable.other.object.property"
 			],
 			"settings": {
 				"foreground": "#D8DEE9",
@@ -277,6 +278,7 @@
 				"support.function.construct.output.php",
 				"keyword.other.new.php",
 				"storage.type.function.arrow",
+				"keyword.operator.new"
 			],
 			"settings": {
 				"foreground": "#C595C6"
@@ -285,6 +287,7 @@
 		{
 			"scope": [
 				"storage.modifier.async",
+				"storage.type"
 			],
 			"settings": {
 				"foreground": "#C595C6",
@@ -343,6 +346,7 @@
 				"meta.tag.attributes keyword.operator.assignment",
 				"comment.block",
 				"comment",
+				"punctuation.definition.comment",
 				"keyword.operator.type.annotation",
 				"punctuation.accessor",
 				"comment.block.ts",
