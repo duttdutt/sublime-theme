@@ -3,7 +3,7 @@
 	"name": "sublime-theme",
 	"displayName": "Sublime Theme",
 	"description": "Sublime Theme for Visual Studio Code",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"engines": {
 		"vscode": "^1.88.0"
 	},
