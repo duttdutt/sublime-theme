@@ -20,8 +20,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.0.0] - 21 Apr, 2025
 
 - Changed tokens for comments, variables, properties.
+
+## [1.0.1] - 21 Apr, 2025
+## [1.0.1] - 21 Apr, 2025
+
+- Small fixes.
+
+## [1.0.3] - 21 Apr, 2025
+
 - Change some colors for theme.
-- Added `README.md`.
+- Added badge and image to `README.md`.
 
 ## Releases
 [0.0.2]: https://github.com/duttdutt/sublime-theme/compare/v0.0.1...v0.0.2
