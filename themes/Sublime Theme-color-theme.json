@@ -499,7 +499,10 @@
 	"semanticTokenColors": {
 		"parameter": "#D8DEE9",
 		"parameter.declaration": "#F9AE58",
-		"property": "#D8DEE9",
+		"property": {
+			"foreground": "#D8DEE9",
+			"fontStyle": "",
+		},
 		"property.readonly": {
 			"fontStyle": ""
 		},
