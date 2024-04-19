@@ -240,7 +240,8 @@
 				"constant.language.null",
 				"constant.language.undefined",
 				"constant.language.nan",
-				"constant.language.infinity"
+				"constant.language.infinity",
+				"variable.language.this"
 			],
 			"settings": {
 				"foreground": "#EC5F66",
@@ -279,7 +280,8 @@
 				"support.function.construct.output.php",
 				"keyword.other.new.php",
 				"storage.type.function.arrow",
-				"keyword.operator.new"
+				"keyword.operator.new",
+				"keyword.generator.asterisk"
 			],
 			"settings": {
 				"foreground": "#C595C6"
