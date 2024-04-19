@@ -22,7 +22,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Changed tokens for comments, variables, properties.
 
 ## [1.0.1] - 21 Apr, 2025
-## [1.0.1] - 21 Apr, 2025
+## [1.0.2] - 21 Apr, 2025
 
 - Small fixes.
 
@@ -32,5 +32,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added badge and image to `README.md`.
 
 ## Releases
+[1.0.3]: https://github.com/duttdutt/sublime-theme/compare/v1.0.3...v1.0.2
+[1.0.2]: https://github.com/duttdutt/sublime-theme/compare/v1.0.2...v1.0.1
+[1.0.1]: https://github.com/duttdutt/sublime-theme/compare/v1.0.1...v1.0.0
+[1.0.0]: https://github.com/duttdutt/sublime-theme/compare/v1.0.0...v0.0.3
+[0.0.3]: https://github.com/duttdutt/sublime-theme/compare/v0.0.2...v0.0.3
 [0.0.2]: https://github.com/duttdutt/sublime-theme/compare/v0.0.1...v0.0.2
 [0.0.1]: https://github.com/duttdutt/sublime-theme/releases/tag/v0.0.1
