@@ -389,7 +389,7 @@
 		{
 			"scope": [
 				"keyword.operator",
-				"keyword.control.xi",
+				"keyword.control.xi"
 			],
 			"settings": {
 				"foreground": "#F97B58"
@@ -507,16 +507,25 @@
 		}
 	],
 	"semanticTokenColors": {
-		"parameter": "#D8DEE9",
-		"parameter.declaration": "#F9AE58",
+		"parameter": {
+			"foreground": "#D8DEE9",
+			"fontStyle": ""
+		},
+		"parameter.declaration": {
+			"foreground": "#F9AE58",
+			"fontStyle": ""
+		},
 		"property": {
 			"foreground": "#D8DEE9",
-			"fontStyle": "",
+			"fontStyle": ""
 		},
 		"property.readonly": {
 			"fontStyle": ""
 		},
-		"variable": "#D8DEE9",
+		"variable": {
+			"foreground": "#D8DEE9",
+			"fontStyle": ""
+		},
 		"variable.defaultLibrary": {
 			"foreground": "#6698CB",
 			"fontStyle": "italic"
