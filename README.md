@@ -7,7 +7,7 @@
 <p align="center">
 <img alt="Sublime Semantic" src="./images/Sublime_Semantic.png" style="border-radius:6px">
 <img alt="" src="">
-<sub><samp>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Font | <a href="https://en.wikipedia.org/wiki/Menlo_(typeface)">Input Mono</a><br>
+<sub><samp>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Font | <a href="https://en.wikipedia.org/wiki/Menlo_(typeface)">Menlo</a><br>
 
 ## Recommended settings
 
