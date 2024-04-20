@@ -1,14 +1,32 @@
 {
 	"publisher": "duttdutt",
 	"name": "sublime-theme",
-	"displayName": "Sublime Mariana Theme",
-	"description": "Sublime Mariana Themes for VSCode",
+	"displayName": "Sublime Text - Identical Mariana Theme",
+	"description": "Just turn on semantic and enjoy💥",
 	"version": "1.0.3",
 	"engines": {
 		"vscode": "^1.88.0"
 	},
 	"categories": [
 		"Themes"
+	],
+	"keywords": [
+		"VSCode",
+    "Themes",
+		"Mariana",
+		"Sublime Mariana",
+		"Sublime Text",
+		"sublime text",
+		"dark theme",
+		"Sublime Text 4 Theme",
+		"sublime text 4 theme",
+		"sublime",
+		"sublimetext",
+		"sublime text 4",
+		"sublimetext4theme",
+		"sublimetexttheme",
+		"Monokai Pro New",
+		"Sublime Exact Theme"
 	],
 	"icon": "./icon/icon.png",
 	"repository": "https://github.com/duttdutt/sublime-theme.git",
