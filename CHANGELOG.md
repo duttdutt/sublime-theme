@@ -17,21 +17,29 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Fix some properties, constants and other JavaScript, TypeScript stuff customization.
 
-## [1.0.0] - 21 Apr, 2025
+## [1.0.0] - 21 Apr, 2024
 
 - Changed tokens for comments, variables, properties.
 
-## [1.0.1] - 21 Apr, 2025
-## [1.0.2] - 21 Apr, 2025
+## [1.0.1] - 21 Apr, 2024
+
+## [1.0.2] - 21 Apr, 2024
 
 - Small fixes.
 
-## [1.0.3] - 21 Apr, 2025
+## [1.0.3] - 21 Apr, 2024
 
 - Change some colors for theme.
 - Added badge and image to `README.md`.
 
+## [1.0.5] - 22 Apr, 2024
+
+- Added new personal theme "Semantic Colorful".
+
 ## Releases
+
+[1.0.5]: https://github.com/duttdutt/sublime-theme/compare/v1.0.5...v1.0.4
+[1.0.4]: https://github.com/duttdutt/sublime-theme/compare/v1.0.4...v1.0.3
 [1.0.3]: https://github.com/duttdutt/sublime-theme/compare/v1.0.3...v1.0.2
 [1.0.2]: https://github.com/duttdutt/sublime-theme/compare/v1.0.2...v1.0.1
 [1.0.1]: https://github.com/duttdutt/sublime-theme/compare/v1.0.1...v1.0.0
