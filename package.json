@@ -3,7 +3,7 @@
 	"name": "sublime-theme",
 	"displayName": "Sublime Text - Identical Mariana Theme",
 	"description": "Just turn on semantic and enjoy💥",
-	"version": "1.0.6",
+	"version": "1.0.7",
 	"engines": {
 		"vscode": "^1.88.0"
 	},
