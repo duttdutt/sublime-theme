@@ -3,7 +3,7 @@
 	"name": "sublime-theme",
 	"displayName": "Sublime Text - Identical Mariana Theme",
 	"description": "Just turn on semantic and enjoy💥",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"engines": {
 		"vscode": "^1.88.0"
 	},
@@ -12,7 +12,7 @@
 	],
 	"keywords": [
 		"VSCode",
-    "Themes",
+		"Themes",
 		"Mariana",
 		"Sublime Mariana",
 		"Sublime Text",
@@ -31,25 +31,30 @@
 	"icon": "./icon/icon.png",
 	"repository": "https://github.com/duttdutt/sublime-theme.git",
 	"scripts": {
-    "build": "vsce package --out ./extension.vsix",
+		"build": "vsce package --out ./extension.vsix",
 		"publish": "open-cli https://marketplace.visualstudio.com/manage"
-  },
+	},
 	"bugs": {
-    "url": "https://github.com/duttdutt/sublime-theme/issues"
-  },
+		"url": "https://github.com/duttdutt/sublime-theme/issues"
+	},
 	"exports": {
-    "./*": "./*"
-  },
+		"./*": "./*"
+	},
 	"files": [
-    "images",
-    "themes"
-  ],
+		"images",
+		"themes"
+	],
 	"contributes": {
 		"themes": [
 			{
 				"label": "Sublime Mariana ⎯ Semantic",
 				"uiTheme": "vs-dark",
 				"path": "./themes/sublime-semantic.json"
+			},
+			{
+				"label": "Sublime Mariana ⎯ Semantic Colorful",
+				"uiTheme": "vs-dark",
+				"path": "./themes/sublime-semantic-colorful.json"
 			}
 		]
 	},
