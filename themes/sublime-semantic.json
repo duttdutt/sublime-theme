@@ -241,7 +241,8 @@
 				"constant.language.undefined",
 				"constant.language.nan",
 				"constant.language.infinity",
-				"variable.language.this"
+				"variable.language.this",
+				"constant.language.json"
 			],
 			"settings": {
 				"foreground": "#FF5261",
@@ -332,7 +333,9 @@
 				"punctuation.definition.string.end.json.comments",
 				"entity.name.class.xi",
 				"punctuation.definition",
-				"support.constant.core"
+				"support.constant.core",
+				"punctuation.support.type.property-name.begin.json",
+				"punctuation.support.type.property-name.end.json"
 			],
 			"settings": {
 				"foreground": "#37B6B4",
